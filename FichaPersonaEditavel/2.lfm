@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmFichaPersonaEditavel2_svg" align="client" theme="dark" margins="{top=1}">
+    <style>#frmFichaPersonaEditavel2_svg path {color: black; strokeColor: black; mode: stretch;} &#xD;
+#frmFichaPersonaEditavel2_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="1539" height="2736" color="white">&#xD;
+		
+			<!-- Background -->
+            <image left="0" top="0" width="1539" height="2736" src="images/2.png" style="stretch" optimize="true" compilerOrder="0"/>&#xD;
+			
+			<!-- Persona Image -->
+            <image left="962" top="1279" width="523" height="533" editable = "true" style="stretch" optimize="true" field="ImagemPersona" compilerOrder="1"/>&#xD;
+			
+            <layout left="733" top="39" width="359" height="37" compilerOrder="1">
+                <edit transparent="true" fontSize="18" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="359" height="38" field="NomePersona" compilerOrder="2"/>
+            </layout>&#xD;
+            <layout left="1219" top="150" width="148" height="30.4" compilerOrder="3">
+                <edit left="0" top="0" width="148" height="30.4" fontSize="22" horzTextAlign="center" vertTextAlign="center" fontColor="#000000" field="PMPersona" transparent="true" compilerOrder="4"/>
+            </layout>&#xD;
+            <layout left="835" top="150" width="202" height="30.4" compilerOrder="5">
+                <edit left="0" top="0" width="202" height="30.4" fontSize="22" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" field="LevelPersona" transparent="true" compilerOrder="6"/>
+            </layout>&#xD;
+            <layout left="1211" top="322.6" width="292" height="426.4" compilerOrder="23">
+                <textEditor left="0" top="0" width="292" height="426.4" fontSize="18" fontColor="#000000" field="HabilidadeNatural" transparent="true" compilerOrder="24"/>
+            </layout>&#xD;
+            <layout left="26" top="564" width="238" height="17" compilerOrder="7">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco" compilerOrder="8"/>
+            </layout>&#xD;
+            <layout left="293" top="564" width="66" height="17" compilerOrder="9">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier" compilerOrder="10"/>
+            </layout>&#xD;
+            <layout left="26" top="618" width="238" height="17" compilerOrder="11">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_2" compilerOrder="12"/>
+            </layout>&#xD;
+            <layout left="293" top="618" width="66" height="17" compilerOrder="13">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_2" compilerOrder="14"/>
+            </layout>&#xD;
+            <layout left="26" top="672" width="238" height="17" compilerOrder="15">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_3" compilerOrder="16"/>
+            </layout>&#xD;
+            <layout left="293" top="672" width="66" height="17" compilerOrder="17">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_3" compilerOrder="18"/>
+            </layout>&#xD;
+            <layout left="26" top="723" width="238" height="17" compilerOrder="19">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_4" compilerOrder="20"/>
+            </layout>&#xD;
+            <layout left="293" top="724" width="66" height="17" compilerOrder="21">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_4" compilerOrder="22"/>
+            </layout>&#xD;
+            <layout left="26" top="777" width="238" height="17" compilerOrder="25">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_6" compilerOrder="26"/>
+            </layout>&#xD;
+            <layout left="293" top="778" width="66" height="17" compilerOrder="27">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_5" compilerOrder="28"/>
+            </layout>&#xD;
+            <layout left="26" top="831" width="238" height="17" compilerOrder="29">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_7" compilerOrder="30"/>
+            </layout>&#xD;
+            <layout left="293" top="831" width="66" height="17" compilerOrder="31">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_6" compilerOrder="32"/>
+            </layout>&#xD;
+            <layout left="26" top="887" width="238" height="17" compilerOrder="33">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_5" compilerOrder="34"/>
+            </layout>&#xD;
+            <layout left="293" top="887" width="66" height="17" compilerOrder="35">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_7" compilerOrder="36"/>
+            </layout>&#xD;
+            <layout left="383" top="887" width="238" height="17" compilerOrder="37">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_15" compilerOrder="38"/>
+            </layout>&#xD;
+            <layout left="650" top="887" width="66" height="17" compilerOrder="39">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_15" compilerOrder="40"/>
+            </layout>&#xD;
+            <layout left="1281" top="930" width="183" height="36" compilerOrder="49">
+                <edit transparent="true" fontSize="18" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="183" height="37" field="TipoPersona1" compilerOrder="50"/>
+            </layout>&#xD;
+            <layout left="650" top="940" width="66" height="17" compilerOrder="41">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_16" compilerOrder="42"/>
+            </layout>&#xD;
+            <layout left="26" top="941" width="238" height="17" compilerOrder="43">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_8" compilerOrder="44"/>
+            </layout>&#xD;
+            <layout left="293" top="941" width="66" height="17" compilerOrder="45">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_8" compilerOrder="46"/>
+            </layout>&#xD;
+            <layout left="383" top="941" width="238" height="17" compilerOrder="47">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_16" compilerOrder="48"/>
+            </layout>&#xD;
+            <layout left="1281" top="982" width="183" height="36" compilerOrder="59">
+                <edit transparent="true" fontSize="18" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="183" height="37" field="TipoPersona2" compilerOrder="60"/>
+            </layout>&#xD;
+            <layout left="26" top="993" width="238" height="17" compilerOrder="51">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_9" compilerOrder="52"/>
+            </layout>&#xD;
+            <layout left="293" top="993" width="66" height="17" compilerOrder="53">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_9" compilerOrder="54"/>
+            </layout>&#xD;
+            <layout left="383" top="993" width="238" height="17" compilerOrder="55">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_17" compilerOrder="56"/>
+            </layout>&#xD;
+            <layout left="649" top="993" width="66" height="17" compilerOrder="57">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_17" compilerOrder="58"/>
+            </layout>&#xD;
+            <layout left="1281" top="1033" width="183" height="36" compilerOrder="71">
+                <edit transparent="true" fontSize="18" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="183" height="37" field="TipoPersona3" compilerOrder="72"/>
+            </layout>&#xD;
+            <layout left="383" top="1046" width="238" height="17" compilerOrder="63">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_18" compilerOrder="64"/>
+            </layout>&#xD;
+            <layout left="26" top="1047" width="238" height="17" compilerOrder="69">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_10" compilerOrder="70"/>
+            </layout>&#xD;
+            <layout left="292" top="1047" width="66" height="17" compilerOrder="65">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_10" compilerOrder="66"/>
+            </layout>&#xD;
+            <layout left="649" top="1047" width="66" height="17" compilerOrder="67">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_19" compilerOrder="68"/>
+            </layout>&#xD;
+            <layout left="650" top="1048" width="64" height="15" compilerOrder="61">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="64" height="16" field="oloucoTier_18" compilerOrder="62"/>
+            </layout>&#xD;
+            <layout left="1282" top="1086" width="183" height="36" compilerOrder="81">
+                <edit transparent="true" fontSize="18" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="183" height="37" field="TipoPersona4" compilerOrder="82"/>
+            </layout>&#xD;
+            <layout left="26" top="1100" width="238" height="17" compilerOrder="75">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_11" compilerOrder="76"/>
+            </layout>&#xD;
+            <layout left="293" top="1100" width="66" height="17" compilerOrder="79">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_11" compilerOrder="80"/>
+            </layout>&#xD;
+            <layout left="383" top="1100" width="238" height="17" compilerOrder="77">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_19" compilerOrder="78"/>
+            </layout>&#xD;
+            <layout left="649" top="1100" width="66" height="17" compilerOrder="73">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_20" compilerOrder="74"/>
+            </layout>&#xD;
+            <layout left="26" top="1154" width="238" height="17" compilerOrder="83">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_12" compilerOrder="84"/>
+            </layout>&#xD;
+            <layout left="292" top="1154" width="66" height="17" compilerOrder="85">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_12" compilerOrder="86"/>
+            </layout>&#xD;
+            <layout left="383" top="1154" width="238" height="17" compilerOrder="87">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_20" compilerOrder="88"/>
+            </layout>&#xD;
+            <layout left="650" top="1155" width="66" height="17" compilerOrder="89">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_21" compilerOrder="90"/>
+            </layout>&#xD;
+            <layout left="26" top="1213" width="238" height="17" compilerOrder="91">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_13" compilerOrder="92"/>
+            </layout>&#xD;
+            <layout left="293" top="1213" width="66" height="17" compilerOrder="93">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_13" compilerOrder="94"/>
+            </layout>&#xD;
+            <layout left="383" top="1213" width="238" height="17" compilerOrder="95">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_21" compilerOrder="96"/>
+            </layout>&#xD;
+            <layout left="648" top="1213" width="66" height="17" compilerOrder="97">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_22" compilerOrder="98"/>
+            </layout>&#xD;
+            <layout left="293" top="1265" width="66" height="17" compilerOrder="103">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_14" compilerOrder="104"/>
+            </layout>&#xD;
+            <layout left="383" top="1265" width="238" height="17" compilerOrder="99">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_22" compilerOrder="100"/>
+            </layout>&#xD;
+            <layout left="649" top="1265" width="66" height="17" compilerOrder="101">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="66" height="18" field="oloucoTier_23" compilerOrder="102"/>
+            </layout>&#xD;
+            <layout left="27" top="1266" width="238" height="17" compilerOrder="105">
+                <edit transparent="true" fontSize="9" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="238" height="18" field="olouco_14" compilerOrder="106"/>
+            </layout>&#xD;
+            <layout left="975" top="2065" width="144" height="23" compilerOrder="107">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaFisico" compilerOrder="108"/>
+            </layout>&#xD;
+            <layout left="1157" top="2065" width="144" height="23" compilerOrder="109">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaFogo" compilerOrder="110"/>
+            </layout>&#xD;
+            <layout left="1334" top="2065" width="144" height="23" compilerOrder="111">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaGelo" compilerOrder="112"/>
+            </layout>&#xD;
+            <layout left="943" top="2209" width="144" height="23" compilerOrder="113">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaRaio" compilerOrder="114"/>
+            </layout>&#xD;
+            <layout left="1123" top="2209" width="144" height="23" compilerOrder="115">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaVento" compilerOrder="116"/>
+            </layout>&#xD;
+            <layout left="1301" top="2210" width="144" height="23" compilerOrder="117">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaLuz" compilerOrder="118"/>
+            </layout>&#xD;
+            <layout left="911" top="2351" width="144" height="23" compilerOrder="119">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaTrevas" compilerOrder="120"/>
+            </layout>&#xD;
+            <layout left="1090" top="2352" width="144" height="23" compilerOrder="121">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaPsy" compilerOrder="122"/>
+            </layout>&#xD;
+            <layout left="1268" top="2352" width="144" height="23" compilerOrder="123">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaNuclear" compilerOrder="124"/>
+            </layout>&#xD;
+            <layout left="880" top="2495" width="144" height="23" compilerOrder="127">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaStatus" compilerOrder="128"/>
+            </layout>&#xD;
+            <layout left="1062" top="2495" width="144" height="23" compilerOrder="125">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="144" height="24" field="ResistenciaIntel" compilerOrder="126"/>
+            </layout>&#xD;
+            <layout left="841" top="2651" width="635" height="30" compilerOrder="129">
+                <edit transparent="true" fontSize="16" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="635" height="31" field="Conviccao" compilerOrder="130"/>
+            </layout>&#xD;
+        </rectangle>
+    </scrollBox>
+</form>

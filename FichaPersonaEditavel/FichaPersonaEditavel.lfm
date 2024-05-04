@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmFichaPersona" formType="sheetTemplate" dataType="FichaPersonaEditavelDataType" title="Ficha Persona RPG" align="client" theme="dark">
+    <tabControl align="client">
+	
+        <tab title="Personagem">
+            <import file="1.lfm"/>
+        </tab>
+		
+        <tab title="Persona">
+            <import file="2.lfm"/>
+        </tab>
+		
+        <tab title="Combate">
+            <import file="3.lfm"/>
+        </tab>
+		
+		<!-- Adicionar futuramente nova pagina de magias -->
+	
+        <tab title="Passado">
+            <import file="4.lfm"/>
+        </tab>
+
+    </tabControl>
+</form>

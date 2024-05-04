@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmFichaPersonaEditavel4_svg" align="client" theme="dark" margins="{top=1}">
+    <style>#frmFichaPersonaEditavel4_svg path {color: black; strokeColor: black; mode: stretch;} &#xD;
+#frmFichaPersonaEditavel4_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="1539" height="2736" color="white">&#xD;
+            <image left="0" top="0" width="1539" height="2736" src="images/4.png" style="stretch" optimize="true" compilerOrder="0"/>&#xD;
+            <layout left="450" top="52" width="299" height="23" compilerOrder="1">
+                <edit transparent="true" fontSize="15" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="299" height="24" field="Apelido" compilerOrder="2"/>
+            </layout>&#xD;
+            <layout left="1036" top="105" width="417" height="39" compilerOrder="3">
+                <edit transparent="true" fontSize="22" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="417" height="40" field="CidadeNatal" compilerOrder="4"/>
+            </layout>&#xD;
+            <layout left="409" top="132" width="141" height="18" compilerOrder="5">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="141" height="20" field="Aniversario" compilerOrder="6"/>
+            </layout>&#xD;
+            <layout left="223" top="183" width="165" height="20" compilerOrder="7">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="165" height="22" field="Signo" compilerOrder="8"/>
+            </layout>&#xD;
+            <layout left="221" top="231" width="78" height="18" compilerOrder="9">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="78" height="20" field="Idade" compilerOrder="10"/>
+            </layout>&#xD;
+            <layout left="1036" top="243.6" width="417" height="31.4" compilerOrder="11">
+                <edit left="0" top="0" width="417" height="31.4" fontSize="22" horzTextAlign="center" vertTextAlign="center" fontColor="#000000" field="Pais" transparent="true" compilerOrder="12"/>
+            </layout>&#xD;
+            <layout left="231" top="540" width="218" height="20" compilerOrder="13">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="218" height="22" field="Trabalho" compilerOrder="14"/>
+            </layout>&#xD;
+            <layout left="80" top="647" width="110" height="21" compilerOrder="15">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Segunda" compilerOrder="16"/>
+            </layout>&#xD;
+            <layout left="262" top="647" width="110" height="21" compilerOrder="17">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Terca" compilerOrder="18"/>
+            </layout>&#xD;
+            <layout left="437" top="647" width="104" height="21" compilerOrder="19">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="104" height="22" field="Quarta" compilerOrder="20"/>
+            </layout>&#xD;
+            <layout left="621" top="647" width="110" height="21" compilerOrder="21">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Quinta" compilerOrder="22"/>
+            </layout>&#xD;
+            <layout left="1083" top="685.6" width="366" height="722.4" compilerOrder="39">
+                <textEditor left="0" top="0" width="366" height="722.4" fontSize="15" fontColor="#000000" field="EventosNotaveis" transparent="true" compilerOrder="40"/>
+            </layout>&#xD;
+            <layout left="264" top="733" width="110" height="21" compilerOrder="23">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Sabado" compilerOrder="24"/>
+            </layout>&#xD;
+            <layout left="436" top="734" width="110" height="21" compilerOrder="25">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Domingo" compilerOrder="26"/>
+            </layout>&#xD;
+            <layout left="80" top="735" width="110" height="21" compilerOrder="27">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="110" height="22" field="Sexta" compilerOrder="28"/>
+            </layout>&#xD;
+            <layout left="217" top="979" width="551" height="18" compilerOrder="29">
+                <edit transparent="true" fontSize="11" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="551" height="20" field="Comida" compilerOrder="30"/>
+            </layout>&#xD;
+            <layout left="216" top="1034" width="551" height="18" compilerOrder="31">
+                <edit transparent="true" fontSize="11" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="551" height="20" field="Musica" compilerOrder="32"/>
+            </layout>&#xD;
+            <layout left="282" top="1089" width="479" height="18" compilerOrder="33">
+                <edit transparent="true" fontSize="11" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="479" height="20" field="Televisao" compilerOrder="34"/>
+            </layout>&#xD;
+            <layout left="302" top="1146" width="458" height="18" compilerOrder="35">
+                <edit transparent="true" fontSize="11" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="458" height="20" field="Literatura" compilerOrder="36"/>
+            </layout>&#xD;
+            <layout left="427" top="1203" width="339" height="18" compilerOrder="37">
+                <edit transparent="true" fontSize="11" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="339" height="120" field="AtividadeFisica" compilerOrder="38"/>
+            </layout>&#xD;
+			
+            <layout left="1346" top="1709.6" width="170" height="22.4" compilerOrder="43">
+                <textEditor left="0" top="0" width="170" height="22.4" fontSize="12" fontColor="#000000" field="Tatoo" transparent="true" compilerOrder="44"/>
+            </layout>&#xD;
+            <layout left="769" top="1712" width="84" height="16" compilerOrder="41">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="84" height="17" field="Altura" compilerOrder="42"/>
+            </layout>&#xD;
+            <layout left="769" top="1764" width="124" height="21" compilerOrder="45">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="124" height="22" field="Fisico" compilerOrder="46"/>
+            </layout>&#xD;
+            <layout left="1198" top="1783.6" width="170" height="29.4" compilerOrder="47">
+                <textEditor left="0" top="0" width="170" height="29.4" fontSize="12" fontColor="#000000" field="Cicatriz" transparent="true" compilerOrder="48"/>
+            </layout>&#xD;
+            <layout left="769" top="1819" width="126" height="17" compilerOrder="49">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="126" height="18" field="Cabelo" compilerOrder="50"/>
+            </layout>&#xD;
+            <layout left="1107" top="1859.6" width="170" height="29.4" compilerOrder="51">
+                <textEditor left="0" top="0" width="170" height="29.4" fontSize="12" fontColor="#000000" field="Roupas" transparent="true" compilerOrder="52"/>
+            </layout>&#xD;
+            <layout left="760" top="1877" width="131" height="18" compilerOrder="53">
+                <edit transparent="true" fontSize="12" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="131" height="20" field="Olhos" compilerOrder="54"/>
+            </layout>&#xD;
+            <layout left="625" top="2214.6" width="858" height="473.4" compilerOrder="55">
+                <textEditor left="0" top="0" width="858" height="473.4" fontSize="15" fontColor="#000000" field="Notas" transparent="true" compilerOrder="56"/>
+            </layout>&#xD;
+        </rectangle>
+    </scrollBox>
+</form>
